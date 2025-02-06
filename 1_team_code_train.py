@@ -14,6 +14,7 @@ def train_challenge_model(path_to_training_data, model_folder):
     # Generate dummies and store the column names for consistency
     patient_ids, data, label, features = load_challenge_data(path_to_training_data)
     data = pd.get_dummies(data)
+    print(data.head())
     columns = data.columns
 
     # Save the column names for later use during inference

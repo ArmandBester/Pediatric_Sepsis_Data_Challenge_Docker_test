@@ -46,7 +46,9 @@ def run_challenge_model(model_folder, path_to_test_data):
                 }
     resultsDf = pd.DataFrame.from_dict(results)
 
-    resultsDf.to_csv(path_to_test_data, sep="|")
+    print(resultsDf.head())
+
+    resultsDf.to_csv("test_outputs/outputs.txt", sep="|")
 
 
 run_challenge_model(model_folder="model", path_to_test_data="test_data/test_data.csv")
