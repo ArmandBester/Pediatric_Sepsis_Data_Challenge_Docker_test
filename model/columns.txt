@@ -1,0 +1,333 @@
+agecalc_adm
+height_cm_adm
+weight_kg_adm
+muac_mm_adm
+hr_bpm_adm
+rr_brpm_app_adm
+sysbp_mmhg_adm
+diasbp_mmhg_adm
+temp_c_adm
+spo2site1_pc_oxi_adm
+spo2site2_pc_oxi_adm
+spo2other_adm
+momage_adm
+momagefirstpreg_adm
+householdsize_adm
+alivechildren_adm
+deadchildren_adm
+hematocrit_gpdl_adm
+lactate_mmolpl_adm
+lactate2_mmolpl_adm
+glucose_mmolpl_adm
+sqi1_perc_oxi_adm
+sqi2_perc_oxi_adm
+lengthadm
+sex_adm_Female
+sex_adm_Male
+spo2onoxy_adm_No
+spo2onoxy_adm_Yes
+oxygenavail_adm_Oxygen available and being used
+oxygenavail_adm_Oxygen available and not being used
+oxygenavail_adm_Oxygen available but not enough
+oxygenavail_adm_Oxygen not available
+respdistress_adm_No
+respdistress_adm_Yes
+caprefill_adm_No
+caprefill_adm_Yes
+bcseye_adm_Fails to watch or follow
+bcseye_adm_Watches or follows
+bcsmotor_adm_Localizes painful stimulus
+bcsmotor_adm_No response or inappropriate response
+bcsmotor_adm_Withdraws limb from painful stimulus
+bcsverbal_adm_Cries appropriately with pain, or, if verbal, speaks
+bcsverbal_adm_Moan or abnormal cry with pain
+bcsverbal_adm_No vocal response to pain
+admitabx_adm___1_Checked
+admitabx_adm___1_Unchecked
+admitabx_adm___2_Checked
+admitabx_adm___2_Unchecked
+admitabx_adm___3_Checked
+admitabx_adm___3_Unchecked
+admitabx_adm___4_Checked
+admitabx_adm___4_Unchecked
+admitabx_adm___5_Checked
+admitabx_adm___5_Unchecked
+admitabx_adm___6_Checked
+admitabx_adm___6_Unchecked
+admitabx_adm___7_Checked
+admitabx_adm___7_Unchecked
+admitabx_adm___8_Checked
+admitabx_adm___8_Unchecked
+admitabx_adm___9_Checked
+admitabx_adm___9_Unchecked
+admitabx_adm___10_Checked
+admitabx_adm___10_Unchecked
+admitabx_adm___11_Checked
+admitabx_adm___11_Unchecked
+admitabx_adm___12_Checked
+admitabx_adm___12_Unchecked
+admitabx_adm___13_Checked
+admitabx_adm___13_Unchecked
+admitabx_adm___14_Checked
+admitabx_adm___14_Unchecked
+admitabx_adm___15_Checked
+admitabx_adm___15_Unchecked
+admitabx_adm___16_Checked
+admitabx_adm___16_Unchecked
+admitabx_adm___17_Checked
+admitabx_adm___17_Unchecked
+admitabx_adm___18_Checked
+admitabx_adm___18_Unchecked
+admitabx_adm___19_Checked
+admitabx_adm___19_Unchecked
+admitabx_adm___20_Checked
+admitabx_adm___20_Unchecked
+admitabx_adm___21_Checked
+admitabx_adm___21_Unchecked
+bcgscar_adm_No
+bcgscar_adm_Yes
+vaccmeasles_adm_No
+vaccmeasles_adm_Unknown
+vaccmeasles_adm_Yes
+vaccmeaslessource_adm_Card
+vaccmeaslessource_adm_Self report
+vaccpneumoc_adm_0 doses
+vaccpneumoc_adm_1 dose
+vaccpneumoc_adm_2 doses
+vaccpneumoc_adm_3 doses
+vaccpneumoc_adm_Unknown
+vaccpneumocsource_adm_Card
+vaccpneumocsource_adm_Self report
+vaccdpt_adm_0 doses
+vaccdpt_adm_1 dose
+vaccdpt_adm_2 doses
+vaccdpt_adm_3 doses
+vaccdpt_adm_Unknown
+vaccdptsource_adm_Card
+vaccdptsource_adm_Self report
+priorweekabx_adm_Dont know
+priorweekabx_adm_No
+priorweekabx_adm_Yes
+priorweekantimal_adm_Dont know
+priorweekantimal_adm_No
+priorweekantimal_adm_Yes
+symptoms_adm___1_Checked
+symptoms_adm___1_Unchecked
+symptoms_adm___2_Checked
+symptoms_adm___2_Unchecked
+symptoms_adm___3_Checked
+symptoms_adm___3_Unchecked
+symptoms_adm___4_Checked
+symptoms_adm___4_Unchecked
+symptoms_adm___5_Checked
+symptoms_adm___5_Unchecked
+symptoms_adm___6_Checked
+symptoms_adm___6_Unchecked
+symptoms_adm___7_Checked
+symptoms_adm___7_Unchecked
+symptoms_adm___8_Checked
+symptoms_adm___8_Unchecked
+symptoms_adm___9_Checked
+symptoms_adm___9_Unchecked
+symptoms_adm___10_Checked
+symptoms_adm___10_Unchecked
+symptoms_adm___11_Checked
+symptoms_adm___11_Unchecked
+symptoms_adm___12_Checked
+symptoms_adm___12_Unchecked
+symptoms_adm___13_Checked
+symptoms_adm___13_Unchecked
+symptoms_adm___14_Checked
+symptoms_adm___14_Unchecked
+symptoms_adm___15_Checked
+symptoms_adm___15_Unchecked
+symptoms_adm___16_Checked
+symptoms_adm___16_Unchecked
+symptoms_adm___17_Unchecked
+symptoms_adm___18_Unchecked
+comorbidity_adm___1_Checked
+comorbidity_adm___1_Unchecked
+comorbidity_adm___2_Checked
+comorbidity_adm___2_Unchecked
+comorbidity_adm___3_Checked
+comorbidity_adm___3_Unchecked
+comorbidity_adm___4_Unchecked
+comorbidity_adm___5_Checked
+comorbidity_adm___5_Unchecked
+comorbidity_adm___6_Checked
+comorbidity_adm___6_Unchecked
+comorbidity_adm___7_Checked
+comorbidity_adm___7_Unchecked
+comorbidity_adm___8_Checked
+comorbidity_adm___8_Unchecked
+comorbidity_adm___9_Checked
+comorbidity_adm___9_Unchecked
+comorbidity_adm___10_Checked
+comorbidity_adm___10_Unchecked
+comorbidity_adm___11_Checked
+comorbidity_adm___11_Unchecked
+comorbidity_adm___12_Checked
+comorbidity_adm___12_Unchecked
+priorhosp_adm_1 month - 1 year
+priorhosp_adm_7 days - 1 month
+priorhosp_adm_< 7 days
+priorhosp_adm_> 1 year
+priorhosp_adm_Dont know
+priorhosp_adm_Never
+prioryearwheeze_adm_Dont know
+prioryearwheeze_adm_No
+prioryearwheeze_adm_Not applicable (< 6m old)
+prioryearwheeze_adm_Yes
+prioryearcough_adm_Dont know
+prioryearcough_adm_No
+prioryearcough_adm_Not applicable (child < 6m old)
+prioryearcough_adm_Yes
+diarrheaoften_adm_Dont know
+diarrheaoften_adm_No
+diarrheaoften_adm_Yes
+tbcontact_adm_Dont know
+tbcontact_adm_No
+tbcontact_adm_Yes
+feedingstatus_adm_Feeding poorly
+feedingstatus_adm_Feeding well
+feedingstatus_adm_Not feeding at all
+exclbreastfed_adm_1 month
+exclbreastfed_adm_2 months
+exclbreastfed_adm_3 months
+exclbreastfed_adm_4 months
+exclbreastfed_adm_5 months
+exclbreastfed_adm_6 months
+exclbreastfed_adm_Currently exclusively breastfed
+exclbreastfed_adm_More than 6 months
+exclbreastfed_adm_Unknown
+exclbreastfed_adm_never exclusively breastfed
+nonexclbreastfed_adm_100% formula
+nonexclbreastfed_adm_100% other
+nonexclbreastfed_adm_Mixed breastfeeding and formula
+nonexclbreastfed_adm_Mixed breastfeeding and other
+nonexclbreastfed_adm_Mixed formula and other
+totalbreastfed_adm_0-3 months
+totalbreastfed_adm_4-6 months
+totalbreastfed_adm_7-12 months
+totalbreastfed_adm_>12 months
+totalbreastfed_adm_Still being breastfed
+totalbreastfed_adm_Unknown
+deliveryloc_adm_Clinic
+deliveryloc_adm_Health centre
+deliveryloc_adm_Home
+deliveryloc_adm_Hospital
+deliveryloc_adm_Other
+birthattend_adm_Doctor / Clinical officer
+birthattend_adm_Nurse / midwife
+birthattend_adm_Other
+birthattend_adm_Relative
+birthattend_adm_Traditional birth attendant
+duedateknown_adm_No
+duedateknown_adm_Yes
+birthdetail_adm___1_Checked
+birthdetail_adm___1_Unchecked
+birthdetail_adm___2_Checked
+birthdetail_adm___2_Unchecked
+birthdetail_adm___3_Checked
+birthdetail_adm___3_Unchecked
+birthdetail_adm___4_Checked
+birthdetail_adm___4_Unchecked
+birthdetail_adm___5_Checked
+birthdetail_adm___5_Unchecked
+birthdetail_adm___6_Checked
+birthdetail_adm___6_Unchecked
+travelmethod_adm_Ambulance
+travelmethod_adm_Motorcycle
+travelmethod_adm_Other
+travelmethod_adm_Private vehicle
+travelmethod_adm_Taxi/special hire
+travelmethod_adm_Walking
+traveldist_adm_1 - 2 hours
+traveldist_adm_2 - 3 hours
+traveldist_adm_3 - 4 hours
+traveldist_adm_30 minutes - 1 hour
+traveldist_adm_4 - 8 hours
+traveldist_adm_< 30 minutes
+traveldist_adm_> 8 hours
+badhealthduration_adm_1 month - 1 year
+badhealthduration_adm_1 week - 1 month
+badhealthduration_adm_< 1 week
+badhealthduration_adm_> 1 year
+badhealthduration_adm_In good health prior to this illness
+badhealthduration_adm_Unknown
+caregiverage_adm_< = 18 years old
+caregiverage_adm_> 18 years old
+caregiverage_adm_> 50 years old
+caregiverage_adm_N/A (in care)
+caregivermarried_adm_Married monogamous
+caregivermarried_adm_Married polygamous
+caregivermarried_adm_Separated/divorced
+caregivermarried_adm_Single
+caregivermarried_adm_Widowed
+momalive_adm_No
+momalive_adm_Yes
+momageknown_adm_No
+momageknown_adm_Yes
+momagefirstpregknown_adm_No
+momagefirstpregknown_adm_Yes
+momedu_adm_< = P3
+momedu_adm_Dont know
+momedu_adm_No school
+momedu_adm_P4-P7
+momedu_adm_Post secondary (including post S4 technical school)
+momedu_adm_S1-S6
+momhiv_adm_Negative
+momhiv_adm_Positive
+momhiv_adm_Unknown
+watersource_adm_Bore hole
+watersource_adm_Fast running water
+watersource_adm_Municipal water
+watersource_adm_Open source (unprotected, stagnant water, dam)
+watersource_adm_Protected spring
+watersource_adm_Slow running water
+waterpure_adm_No
+waterpure_adm_Yes
+cookfuel_adm___1_Checked
+cookfuel_adm___1_Unchecked
+cookfuel_adm___2_Checked
+cookfuel_adm___2_Unchecked
+cookfuel_adm___3_Checked
+cookfuel_adm___3_Unchecked
+cookfuel_adm___4_Checked
+cookfuel_adm___4_Unchecked
+cookfuel_adm___5_Checked
+cookfuel_adm___5_Unchecked
+cookfuel_adm___6_Checked
+cookfuel_adm___6_Unchecked
+cookfuel_adm___7_Checked
+cookfuel_adm___7_Unchecked
+cookfuel_adm___8_Unchecked
+cookloc_adm_In a separate building/building space used as a kitchen
+cookloc_adm_In the house where you sleep
+cookloc_adm_Outdoors in the open
+lightfuel_adm_Battery-powered light
+lightfuel_adm_Candles
+lightfuel_adm_Electric bulbs (national grid)
+lightfuel_adm_Kerosene lamp
+lightfuel_adm_Other (specify):
+lightfuel_adm_Solar lantern
+lightfuel_adm_Solar powered bulbs
+lightfuel_adm_Tadooba
+tobacco_adm_Daily
+tobacco_adm_Less than monthly
+tobacco_adm_Monthly
+tobacco_adm_Never
+tobacco_adm_Weekly
+bednet_adm_Always
+bednet_adm_Never
+bednet_adm_Sometimes
+hctpretransfusion_adm_No
+hctpretransfusion_adm_Yes
+hivstatus_adm_HIV negative
+hivstatus_adm_HIV positive
+malariastatuspos_adm_No
+malariastatuspos_adm_Yes
+caregiver_adm_new_Father
+caregiver_adm_new_Grandparent
+caregiver_adm_new_Mother
+caregiver_adm_new_Other
