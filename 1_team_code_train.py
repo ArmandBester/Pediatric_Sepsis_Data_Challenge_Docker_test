@@ -17,6 +17,8 @@ def train_challenge_model(path_to_training_data, model_folder):
     print(data.head())
     columns = data.columns
 
+    os.makedirs(model_folder, exist_ok=True)
+
     # Save the column names for later use during inference
     with open(os.path.join(model_folder, 'columns.txt'), 'w') as f:
         f.write("\n".join(columns))

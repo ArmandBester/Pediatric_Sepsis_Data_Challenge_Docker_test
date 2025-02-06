@@ -48,6 +48,8 @@ def run_challenge_model(model_folder, path_to_test_data):
 
     print(resultsDf.head())
 
+    os.makedirs("test_outputs", exist_ok=True)
+
     resultsDf.to_csv("test_outputs/outputs.txt", sep="|")
 
 
