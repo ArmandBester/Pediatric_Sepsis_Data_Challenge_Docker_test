@@ -4,6 +4,8 @@ FROM python:3.10.1-buster
 RUN mkdir /challenge
 COPY ./ /challenge
 WORKDIR /challenge
+RUN mkdir /challenge/model
+RUN mkdir /challenge/test_outputs
 
 ## Install your dependencies here using apt install, etc.
 
