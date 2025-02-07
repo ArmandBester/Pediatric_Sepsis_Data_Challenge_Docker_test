@@ -38,7 +38,7 @@ The `create_and_run_docker.sh` script will:
 >You can use your own `FROM` base image import as you require. You can install your own dependencies as required using your operating system's methodology (from your base image). Edit your `requirements` file to suit you needs. The rest of the Dockerfile should probably be left as is.
 
 - run you docker container. 
->At this stage your `model` and `test_outputs` folders will be mounted such that your results can be written to it. The Dockerfile ends with the `CMD ["bash", "run_all.sh"]` line which runs the bash script which runs the team code. Here the training and inference is slit to give the opportunity for timing both steps.
+>At this stage your `model` and `test_outputs` folders will be mounted such that your results can be written to it. The Dockerfile ends with the `CMD ["bash", "run_all.sh"]` line which runs the bash script which runs the team code. Here the training and inference is split to give the opportunity for timing both steps.
 
 
 
