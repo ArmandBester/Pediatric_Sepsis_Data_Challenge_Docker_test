@@ -2,7 +2,7 @@
 
 Python heavily borrowed from here [https://github.com/Kamaleswaran-Lab/The-2024-Pediatric-Sepsis-Challenge](https://github.com/Kamaleswaran-Lab/The-2024-Pediatric-Sepsis-Challenge)
 
-This is an example to completely automate team submissions in terms of training and running models
+This is an example to completely automate team submissions in terms of training and running models. This method relies on a bash script named `run_all.sh` that runs the team code, as shown below. This example uses Python but could work with any language.
 
 ## How to execute.
 
